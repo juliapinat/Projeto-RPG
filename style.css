@@ -1,4 +1,19 @@
-html {
+body{
+  background-color: lightgray;
+}
+h2 {
+  color: darkred;
+}
+b {
+  color: darkblue;
+}
+a{
+  font-size:16px;
+}
+#titulo{
+  font-size:30px;
+}
+body, html {
   height: 100%;
-  width: 100%;
+  margin: 0;
 }
