@@ -19,7 +19,7 @@ table{
   }
 
 #tabledois{
-
+    float: left;
     width: 30%;
     border-collapse: collapse;
 }
