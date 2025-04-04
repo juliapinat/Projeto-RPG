@@ -17,3 +17,9 @@ table{
     background-color: darkred;
     color: white;
   }
+
+#tabledois{
+
+    width: 30%;
+    border-collapse: collapse;
+}
