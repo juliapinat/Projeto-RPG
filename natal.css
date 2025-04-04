@@ -1,0 +1,19 @@
+body{
+    background-color: #ffa298;
+}
+h1{
+    color: darkred;
+}
+table{
+    width: 30%;
+    border-collapse: collapse;
+  }
+  th, td{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  th{
+    background-color: darkred;
+    color: white;
+  }
