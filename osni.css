@@ -1,8 +1,10 @@
 body{
   background-color: lightcyan;
 }
-h1{
+#titulo{
   color: darkcyan;
+  font-size: 35px;
+  font-family: 'Times New Roman';
 }
 h2{
   color: seagreen;

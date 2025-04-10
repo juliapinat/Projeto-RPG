@@ -1,8 +1,10 @@
 body{
   background-color: Lavender;
 }
-h1{
+#titulo{
   color: Indigo;
+  font-size: 35px;
+  font-family: 'Times New Roman';
 }
 h2{
   color: MediumPurple;

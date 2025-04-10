@@ -1,8 +1,10 @@
 body{
   background-color: rgb(189, 255, 189);
 }
-h1{
+#titulo{
   color: darkgreen;
+  font-size: 35px;
+  font-family: 'Times New Roman';
 }
 h2{
   color: black;

@@ -1,8 +1,10 @@
 body{
     background-color: #ffa298;
 }
-h1{
+#titulo{
     color: darkred;
+    font-size: 35px;
+    font-family: 'Times New Roman';
 }
 table{
     width: 40%;
