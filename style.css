@@ -1,6 +1,12 @@
 body{
   background-color: lightgray;
 }
+#inicio{
+  background-color: gray;
+  padding: 20px;
+  border-bottom: 2px solid #ccc;
+  text-align: center;
+}
 h2 {
   color: darkred;
 }
