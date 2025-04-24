@@ -1,7 +1,7 @@
 body{
   background-color: rgb(189, 255, 189);
 }
-#titulo{
+h1{
   text-align: center;
   color: darkgreen;
   font-size: 35px;

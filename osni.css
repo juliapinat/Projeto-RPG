@@ -1,7 +1,7 @@
 body{
   background-color: lightcyan;
 }
-#titulo{
+h1{
   text-align: center;
   color: darkcyan;
   font-size: 35px;
