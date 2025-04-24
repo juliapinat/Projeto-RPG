@@ -1,16 +1,9 @@
 body{
   background-color: rgb(189, 255, 189);
 }
-h1{
-  text-align: center;
-  color: darkgreen;
-  font-family: sans-serif;
-}
+
 h2{
   color: black;
-}
-p{
-  font-family: Helvetica ;
 }
 table{
   width: 30%;
