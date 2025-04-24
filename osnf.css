@@ -1,7 +1,15 @@
 body{
   background-color: rgb(189, 255, 189);
 }
-
+#titulo{
+  text-align: center;
+  color: darkgreen;
+  font-size: 36px;
+  font-family: sans-serif;
+}
+p{
+  font-family: Helvetica ;
+}
 h2{
   color: black;
 }
