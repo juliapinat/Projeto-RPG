@@ -2,6 +2,7 @@ body{
   background-color: rgb(189, 255, 189);
 }
 #titulo{
+  text-align: center;
   color: darkgreen;
   font-size: 35px;
   font-family: 'Times New Roman';
