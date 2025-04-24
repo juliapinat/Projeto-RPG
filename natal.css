@@ -4,7 +4,7 @@ body{
 h1{
   text-align: center;
     color: darkred;
-    font-family: Times ;
+    font-family: 'Times' ;
 }
 table{
     width: 40%;
