@@ -4,13 +4,15 @@ body{
 h1{
   text-align: center;
   color: darkcyan;
-  font-family: Helvetica ;
 }
 h2{
   color: seagreen;
 }
 h3{
   color: DarkSlateGray;
+}
+p{
+  font-family: Helvetica ;
 }
 table{
   width: 30%;

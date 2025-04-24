@@ -4,7 +4,9 @@ body{
 h1{
   text-align: center;
     color: darkred;
-    font-family: helvetica ;
+}
+p{
+  font-family: helvetica ;
 }
 table{
     width: 40%;

@@ -4,10 +4,12 @@ body{
 h1{
   text-align: center;
   color: Indigo;
-  font-family: Helvetica ;
 }
 h2{
   color: MediumPurple;
+}
+p{
+  font-family: Helvetica ;
 }
 table{
   width: 30%;
