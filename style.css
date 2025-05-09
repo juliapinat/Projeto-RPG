@@ -11,15 +11,14 @@ h1{
   padding: 20px;
   border-bottom: 2px solid #ccc;
   text-align: center;
-
-.principal{
+}
+#principal{
   text-align: right;
-  color: rgb(28, 44, 44);
-  font-size: 25px;
-  font-family: 'Times New Roman';
-}
+  font-size: 30px;
+  color: rgb(0, 0, 78);
 
 }
+
 h2 {
   color: darkred;
 }
