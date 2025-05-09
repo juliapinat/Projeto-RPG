@@ -13,6 +13,7 @@ h1{
   text-align: center;
 }
 #principal{
+  background-color: darkgray;
   text-align: right;
   font-size: 30px;
   color: rgb(0, 0, 78);
