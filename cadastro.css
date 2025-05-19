@@ -5,16 +5,15 @@ body, html {
 h1{
   text-align: center;
   color: darkred;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .form-container{
-  max-width: 200px;
+  width: 200px;
   margin: 30px auto;
   background-color: #fff5f8;
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
-border: 1px solid #dcb;
+  border: 1px solid #dcb;
 }
 
 form{
