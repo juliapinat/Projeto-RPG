@@ -7,7 +7,7 @@ h1{
   color: darkred;
 }
 .form-container{
-  max-width: 300px;
+  width: 300px;
   margin: 30px auto;
   background-color: #fff5f8;
   padding: 30px;
@@ -24,7 +24,7 @@ form{
 form label{
   margin-top: 15px;
   font-weight: bold;
-  color: brown;
+  color: rgb(22, 0, 79);
 }
 
 form input,
