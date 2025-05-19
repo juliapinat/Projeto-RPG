@@ -22,35 +22,3 @@ form label{
   font-weight: bold;
   color: brown;
 }
-
-form input,
-form select,
-form textarea {
-  margin-top: 5px;
-  padding: 10px;
-  font-size: 16px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  background-color: #fff;
-  box-sizing: border-box;
-}
-
-form textarea {
-  resize: vertical;
-}
-
-form button {
-  margin-top: 25px;
-  padding: 12px;
-  font-size: 18px;
-  background-color: brown;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0.3 ease;
-}
-
-form button:hover {
-  background-color: #a0522a;
-}
