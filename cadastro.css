@@ -55,9 +55,9 @@ form button {
   border: none;
   border-radius: 8px;
   cursor: pointer;
-  transition: background-color 0.3 ease;
+  transition: background-color 0,0,255;
 }
 
 form button:hover {
-  background-color: #a0522a;
+  background-color: #00067e;
 }
