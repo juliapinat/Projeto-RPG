@@ -3,61 +3,42 @@ body, html {
   margin: 0;
 }
 body{
-  background-color: gray;
+  background-color: lightgrey;
 }
 h1{
   text-align: center;
   color: darkred;
 }
-.form-container{
-  width: 300px;
-  margin: 20px auto;
-  background-color: #fff5f8;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
-border: 1px solid #dcb;
-}
 
-form{
-  display: flex;
-  flex-direction: column;
-}
-
-form label{
-  margin-top: 15px;
-  font-weight: bold;
-  color: rgb(22, 0, 79);
-}
-
-form input,
-form select,
-form textarea {
-  margin-top: 5px;
-  padding: 10px;
-  font-size: 16px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  background-color: #fff;
-  box-sizing: border-box;
-}
-
-form textarea {
-  resize: vertical;
-}
-
-form button {
-  margin-top: 25px;
-  padding: 12px;
-  font-size: 18px;
-  background-color: brown;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0,0,255;
-}
-
-form button:hover {
-  background-color: #00067e;
-}
+form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, textarea, button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    background-color: #be3d3d;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #c75151;
+  }
