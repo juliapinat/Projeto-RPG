@@ -8,15 +8,10 @@ h1{
   border-bottom: 2px solid #ccc;
   text-align: center;
 }
-a{
-  text-align: right;
-  font-size: 35px;
-  color: rgb(0, 0, 78);
-}
-a{
-  text-align: right;
-  font-size: 35px;
-  color: rgb(0, 0, 78);
+nav{
+  display: block;
+  margin: 10px;
+
 }
 
 h2 {
