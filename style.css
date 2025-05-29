@@ -8,13 +8,29 @@ h1{
   border-bottom: 2px solid #ccc;
   text-align: center;
 }
-nav, a{
-  display:inline-block;
-  margin: 15px;
-  padding: 15px;
-  background-color: #dbdbdb;
-  text-decoration-line: none;
-
+nav {
+            background-color: #333;
+            padding: 15px;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        nav ul li {
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 10px;
+        }
+        nav ul li a:hover {
+            background-color: #555;
+            border-radius: 5px;
 }
 
 h2 {
