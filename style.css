@@ -9,9 +9,9 @@ h1{
   text-align: center;
 }
 nav{
-  display: block;
-  margin: 10px;
-  background-color: #333;
+  display:inline-block;
+  margin: 15px;
+  background-color: #dbdbdb;
   text-decoration-line: none;
 
 }
