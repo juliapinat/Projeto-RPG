@@ -11,6 +11,7 @@ h1{
 nav{
   display:inline-block;
   margin: 15px;
+  padding: 15px;
   background-color: #dbdbdb;
   text-decoration-line: none;
 
