@@ -10,13 +10,6 @@ h1 {
     color: #333;
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
 .produto {
     background-color: white;
     padding: 15px;
