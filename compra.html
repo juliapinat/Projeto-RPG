@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compra</title>
+    <link rel="stylesheet" href="compra.css">
+</head>
+<body>
+    <header>
+        <h1>Finalizar Compra</h1>
+    </header>
+    <main>
+        <p>Obrigado por escolher nossos produtos! Insira suas informações para concluir a compra.</p>
+        <form>
+
+            <label for="telefone">Telefone:</label>
+            <input type="tel" id="telefone" name="telefone" required>
+
+            <label for="telefone">WhatsApp:</label>
+            <input type="tel" id="whatsapp" name="whatsapp" required>
+
+            <label for="endereco">Endereço:</label>
+            <input type="text" id="endereco" required>
+
+            <label for="pagamento">Forma de pagamento</label>
+            <select name="pagamento" id="pagamento" required>
+                <option value="">Selecione uma opção</option>
+                <option value="dinheiro">Dinheiro na hora</option>
+                <option value="boleto">Boleto</option>
+                <option value="cartao">Cartão de Crédito</option>
+                <option value="cartaodeb">Cartão de débito</option>
+                <option value="pix">Pix</option>
+            </select>
+
+            <label for="entrega">Como deseja receber?</label>
+            <select name="entrega" id="entrega" required>
+                <option value="">Selecione uma opção</option>
+                <option value="entrega">Entrega</option>
+                <option value="retirada">Retirada</option>
+            </select>
+
+            <button type="submit">Confirmar Compra</button>
+        </form>
+    </main>
+</body>
+</html>
+
+</body>
+</html>
